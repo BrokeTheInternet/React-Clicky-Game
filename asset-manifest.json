@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-game-clicky/static/css/main.9ef8a794.chunk.css",
+    "main.js": "/react-game-clicky/static/js/main.a411fd50.chunk.js",
+    "main.js.map": "/react-game-clicky/static/js/main.a411fd50.chunk.js.map",
+    "runtime~main.js": "/react-game-clicky/static/js/runtime~main.82851adc.js",
+    "runtime~main.js.map": "/react-game-clicky/static/js/runtime~main.82851adc.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/react-game-clicky/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/react-game-clicky/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/react-game-clicky/index.html",
+    "precache-manifest.12cc1c7bb00ff49ce2a4246ec6983e7a.js": "/react-game-clicky/precache-manifest.12cc1c7bb00ff49ce2a4246ec6983e7a.js",
+    "service-worker.js": "/react-game-clicky/service-worker.js",
+    "static/css/main.9ef8a794.chunk.css.map": "/react-game-clicky/static/css/main.9ef8a794.chunk.css.map",
+    "static/media/pokemon1.jpg": "/react-game-clicky/static/media/pokemon1.3016fb89.jpg",
+    "static/media/pokemon10.png": "/react-game-clicky/static/media/pokemon10.b717e985.png",
+    "static/media/pokemon11.png": "/react-game-clicky/static/media/pokemon11.b614a3df.png",
+    "static/media/pokemon12.png": "/react-game-clicky/static/media/pokemon12.2a656ea8.png",
+    "static/media/pokemon2.png": "/react-game-clicky/static/media/pokemon2.6a0fac75.png",
+    "static/media/pokemon3.png": "/react-game-clicky/static/media/pokemon3.9609b27e.png",
+    "static/media/pokemon4.png": "/react-game-clicky/static/media/pokemon4.846e7497.png",
+    "static/media/pokemon5.png": "/react-game-clicky/static/media/pokemon5.11d11e03.png",
+    "static/media/pokemon6.png": "/react-game-clicky/static/media/pokemon6.be2a6b7b.png",
+    "static/media/pokemon7.png": "/react-game-clicky/static/media/pokemon7.d718608c.png",
+    "static/media/pokemon8.png": "/react-game-clicky/static/media/pokemon8.f7270c69.png",
+    "static/media/pokemon9.png": "/react-game-clicky/static/media/pokemon9.17637010.png"
+  }
+}
